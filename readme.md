@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html>
-<body>
+Numeric Matrix Processor shows project from hyperskill.org
+This project allows to perfom calculation on matrix such as:
+- Add matrices
+- Multiply matrix to a constant
+- Multiply matrices
+- Transpose matrix
+	Main diagonal;
+        Side diagonal
+        Vertical line
+        Horizontal line
+- Calculate a determinant
+- Inverse matrix
 
-<h1>The video element</h1>
-
-<video width="320" height="240" controls>
-  <source src="demonstration.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-</body>
-</html>
+To see short demonstration, please run demonstration.mp4 file
