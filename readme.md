@@ -1,5 +1,5 @@
 <p>Numeric Matrix Processor - project from hyperskill.org</p>
-<p>This project allows to perfom calculations on matrix such as:</p>
+<p>This project allows to perform calculations on matrix such as:</p>
 
 <ul>
 <li> Add matrices</li>
