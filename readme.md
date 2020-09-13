@@ -1,4 +1,4 @@
-Numeric Matrix Processor shows project from hyperskill.org
+<p>Numeric Matrix Processor shows project from hyperskill.org</p>
 This project allows to perfom calculation on matrix such as:
 - Add matrices
 - Multiply matrix to a constant
